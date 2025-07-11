@@ -1,2 +1,1 @@
-# Social-media-engagement
-Dashboard using PowerBi
+This interactive Power BI dashboard visualizes engagement trends across three major social media platforms: Facebook, Instagram, and Twitter. The dashboard is designed to help users understand when and what type of content generates the most engagement, and which platform performs best over time.
